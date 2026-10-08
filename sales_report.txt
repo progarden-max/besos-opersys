@@ -1,0 +1,3 @@
+At all sales: 550
+Average cost: 137.5
+The most powerful sale: 200
